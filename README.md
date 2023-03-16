@@ -1,7 +1,8 @@
 # Signature-Work-Repository
 # AI Portfolio Manager: Optimizing Investment Portfolios for Cryptocurrencies by Machine Learning
 
-Zichao Chen, Data Science, Class of 2023, Duke Kunshan University
+Zichao Chen, Data Science, Class of 2023, Duke Kunshan University;
+
 Supervisor: Prof. Luyao Zhang, Duke Kunshan University
 
 ## Abstract
